@@ -1,0 +1,2 @@
+# nurss
+birinshi github proektim
